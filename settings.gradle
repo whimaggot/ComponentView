@@ -1,0 +1,3 @@
+rootProject.name = "ComponentView"
+include ':app'
+include ':componentview'
